@@ -1,8 +1,4 @@
-Beleza 🚀! Aqui está a versão revisada, mais limpa, organizada e com tom **profissional de README.md para GitHub**. Mantive a hierarquia de seções clara, padronizei a formatação e reduzi repetições para dar mais fluidez:
-
----
-
-# 🖥️ Expert TI - Soluções em Tecnologia
+TecDev  - Soluções em Tecnologia
 
 <div align="center">
   <img src="assets/images/tecdev_logo.png" alt="Expert TI Logo" width="200"/>  
@@ -223,3 +219,4 @@ Este projeto está sob a licença **MIT** – veja [LICENSE](LICENSE).
 👉 Agora está no formato de **README.md profissional e pronto para GitHub**.
 
 Você quer que eu também monte uma **versão curta e comercial** (como um “one-pager” para portfólio/LinkedIn), ou prefere manter apenas essa versão técnica completa?
+
