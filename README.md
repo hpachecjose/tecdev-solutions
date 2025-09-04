@@ -202,10 +202,10 @@ Este projeto está sob a licença **MIT** – veja [LICENSE](LICENSE).
 
 ## 📞 Contato
 
-**Expert TI - Soluções em Tecnologia**
+**TecDev - Soluções em Tecnologia**
 📱 WhatsApp: [Clique para conversar](https://wa.me/5527993111694)
-📧 Email: *[seu-email@dominio.com](mailto:seu-email@dominio.com)*
-🌐 Website: *seu-dominio.com*
+📧 Email: *[tecdevsolucoes@atendimento.com](mailto:henriquepachecj@gmail.com)*
+🌐 Website: *www.tecdevsolucoes.com.br*
 
 ---
 
@@ -215,6 +215,7 @@ Este projeto está sob a licença **MIT** – veja [LICENSE](LICENSE).
 </div>  
 
 ---
+
 
 
 
