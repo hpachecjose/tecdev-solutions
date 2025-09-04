@@ -216,8 +216,7 @@ Este projeto está sob a licença **MIT** – veja [LICENSE](LICENSE).
 
 ---
 
-👉 Agora está no formato de **README.md profissional e pronto para GitHub**.
 
-Você quer que eu também monte uma **versão curta e comercial** (como um “one-pager” para portfólio/LinkedIn), ou prefere manter apenas essa versão técnica completa?
+
 
 
