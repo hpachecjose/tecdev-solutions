@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
 
 # Arrume a seguinte bagunça: \# 🖥️ Expert TI - Soluções em Tecnologia
 
@@ -478,4 +478,5 @@ Este projeto está sob a licença **MIT** – veja [LICENSE](LICENSE).
 👉 Prontinho! Agora tá organizado no formato **README.md de projeto profissional no GitHub**.
 
 Quer que eu também faça uma **versão mais curta e resumida** (pitch de apresentação para clientes/portfólio), ou prefere manter só esse README técnico completo?
+
 
